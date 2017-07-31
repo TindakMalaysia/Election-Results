@@ -1,0 +1,108 @@
+{
+  "description": "By Election results for the State seat P193-N03; Tanjung Datu held in 2017",
+  "group1": "true",
+  "keywords": [
+    "state",
+    "DUN",
+    "2017",
+    "by-elections"
+  ],
+  "license": "odc-odbl",
+  "name": "by-election-p193-n03-tanjung-datu-2017",
+  "title": "By-Election: P193 N03 Tanjung-Datu 2017",
+  "resources": [
+    {
+      "name": "by-election-p193-n03-tanjung-datu-2017",
+      "path": "data/by-election-p193-n03-tanjung-datu-2017.csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "constraints": {
+              "required": true
+            },
+            "name": "DAERAH_MENGUNDI_2015"
+          },
+          {
+            "constraints": {
+              "required": true
+            },
+            "name": "KOD"
+          },
+          {
+            "constraints": {
+              "required": true
+            },
+            "name": "BN"
+          },
+          {
+            "constraints": {
+              "required": true
+            },
+            "name": "BN_CALON"
+          },
+          {
+            "constraints": {
+              "required": true
+            },
+            "name": "UNDI"
+          },
+          {
+            "constraints": {
+              "required": true
+            },
+            "name": "STAR"
+          },
+          {
+            "constraints": {
+              "required": true
+            },
+            "name": "STAR_CALON"
+          },
+          {
+            "constraints": {
+              "required": true
+            },
+            "name": "UNDI"
+          },
+          {
+            "constraints": {
+              "required": true
+            },
+            "name": "PBDSB"
+          },
+          {
+            "constraints": {
+              "required": true
+            },
+            "name": "PBDS_CALON"
+          },
+          {
+            "constraints": {
+              "required": true
+            },
+            "name": "UNDI"
+          },
+          {
+            "constraints": {
+              "required": true
+            },
+            "name": "UNDI_ROSAK"
+          },
+          {
+            "constraints": {
+              "required": true
+            },
+            "name": "JUMLAH_UNDI_BAIK"
+          },
+          {
+            "constraints": {
+              "required": true
+            },
+            "name": "JUMLAH_PEMILIH"
+          }
+        ]
+      }
+    }
+  ]
+}
