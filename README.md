@@ -1,2 +1,2 @@
 # Election-Results
-Election Results from all level: Parliament, State
+By Election Results from all levels: Parliament, State
